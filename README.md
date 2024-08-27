@@ -37,7 +37,7 @@
 ![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PytricioPUCV&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats-pytricios-projects.vercel.app/api?username=PytricioPUCV&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PytricioPUCV&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats-pytricios-projects.vercel.app/api/top-langs/?username=PytricioPUCV&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
