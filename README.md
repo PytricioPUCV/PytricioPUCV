@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&color=FF193E&center=true&vCenter=true&width=435&lines=Hello+my+name+is+Patricio+Elias;Informatics+Engineering+Student;Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 # 💫 About Me:
 
-🔭 **I’m currently working on:**  <br>Enhancing my programming expertise by diving deeper into Java, C, and Python. I'm also expanding my foundational knowledge in web development, focusing on HTML, CSS, and JavaScript. I’m starting to develop some long-term projects alongside my university studies to broaden my technical skills and grow as a developer.<br><br>⚡ **Fun fact:**  <br>I’m a 19-year-old student at Pontificia Universidad Católica, with a passion for learning and developing new projects. Besides coding, I enjoy photography, astronomy, and play video games. <br><br>
+🔭 **I’m currently working on:**  <br>Enhancing my programming expertise by diving deeper into Java, C, and Python. I'm also expanding my foundational knowledge in web development, focusing on HTML, CSS, and JavaScript. I’m starting to develop some long-term projects alongside my university studies to broaden my technical skills and grow as a developer.<br><br>⚡ **Fun fact:**  <br>I’m a 21-year-old student at Pontificia Universidad Católica, with a passion for learning and developing new projects. Besides coding, I enjoy photography, astronomy, and play video games. <br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricio-hernandez-8464b7312/)
