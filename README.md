@@ -9,7 +9,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-black?logo=spotify)](https://open.spotify.com/user/patovader?si=d9501c6e266b44db)
 [![Instagram](https://img.shields.io/badge/Personal_Account-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/patricio.e.hernandez/)
 [![Instagram](https://img.shields.io/badge/Photography_Account-000000?logo=instagram&logoColor=white)](https://www.instagram.com/https.eliias)
-[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://www.youtube.com/@patriciohernandez1904)
+[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://www.youtube.com/@patricio.e.hernandez)
 [![Discord](https://img.shields.io/badge/Discord-1e2124?logo=discord&logoColor=7289da)](https://discord.com/users/746397984983351378)
 
 
@@ -33,8 +33,9 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![PhotoShop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![LightRoom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Intel](https://img.shields.io/badge/Intel%20Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![Nvidia](https://img.shields.io/badge/NVIDIA-RTX_4060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![AMD](https://img.shields.io/badge/AMD-RX_9060_XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![Intel](https://img.shields.io/badge/Intel%20Core_i5_14600KF-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PytricioPUCV&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
