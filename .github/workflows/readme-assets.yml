@@ -18,8 +18,8 @@ jobs:
     env:
       # GH_STATS_TOKEN (PAT with repo + read:user) includes private stats; GITHUB_TOKEN covers public only.
       STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN || secrets.GITHUB_TOKEN }}
-      STATS_OPTIONS: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&hide_border=true
-      LANGS_OPTIONS: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true
+      STATS_OPTIONS: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true
+      LANGS_OPTIONS: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&exclude_repo=FarmaSalud&hide=batchfile
 
     steps:
       - uses: actions/checkout@v7
