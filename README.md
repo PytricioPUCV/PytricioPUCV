@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=FF193E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Patricio;Computer+Engineering+student+%40+PUCV;Building+AI-powered+apps" alt="Hi, I'm Patricio · Computer Engineering student @ PUCV · Building AI-powered apps" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=FF193E&center=true&vCenter=true&width=420&lines=Hi%2C+I'm+Patricio;Full-stack+%26+AI+developer;Building+AI-powered+apps" alt="Hi, I'm Patricio · Full-stack & AI developer · Building AI-powered apps" />
 
 Fourth-year Computer Engineering student at Pontificia Universidad Católica de Valparaíso (PUCV) · Valparaíso, Chile
 
@@ -22,8 +22,8 @@ Fourth-year Computer Engineering student at Pontificia Universidad Católica de 
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Studify](https://github.com/VicenteCLeon/Studify)** | Adaptive micro-learning app: VARK learning-style diagnosis, LLM-generated study capsules and a teacher dashboard.<br><sub>Thesis project · co-authored</sub> | Python · FastAPI · PostgreSQL · HTMX · LLMs |
-| **[MARC-IA](https://github.com/PytricioPUCV/MARC-IA-Project)** | Virtual assistant for institutional guidance at PUCV.<br><sub>Team project (5 devs) · My role: project lead and full-stack developer. I coordinated the team, split and delegated the work, and built across the frontend and backend myself.</sub> | React · FastAPI · PostgreSQL · Docker · RAG with ChromaDB + Gemini |
+| **[Studify](https://github.com/VicenteCLeon/Studify)** | VARK-tailored study capsules via a no-embeddings RAG (traceable SQL retrieval) with hallucinated-citation checks.<br><sub>Thesis project · co-authored with Vicente Cisternas</sub> | Python · FastAPI · HTMX<br>PostgreSQL · DeepSeek |
+| **[MARC-IA](https://github.com/PytricioPUCV/MARC-IA-Project)** | RAG-based virtual assistant for institutional guidance at PUCV, built on ChromaDB + Gemini.<br><sub>Team project · Team lead & full-stack dev (team of 5)</sub> | React · FastAPI · PostgreSQL · Docker |
 | **[Racing Web](https://github.com/PytricioPUCV/Racing_Web_Ionic)** | E-commerce for a store inspired by racing culture. [Live demo](https://racing-web-ionic.vercel.app)<br><sub>Team project</sub> | Ionic · Angular · TypeScript · Docker |
 | **[Decants del Puerto](https://github.com/PytricioPUCV/perfume-decants)** | Online store for perfume decants with a browser-side cart and WhatsApp checkout. [Live site](https://perfume-decants.vercel.app) | React · TypeScript · Vite · Tailwind |
 | **[ACC Server Admin Panel](https://github.com/PytricioPUCV/ACC-Dedicated-Server-AdminPanel)** | Web admin panel and automatic track rotation for the Assetto Corsa Competizione dedicated server. | Python · JavaScript · PyInstaller |
